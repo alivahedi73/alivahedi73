@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 Currently working at Vira Segal as a Front-End Developer<br>- 🌱 Currently improving my skills with Python and Deep Learning<br>- 💼 Python course at Maktabkhooneh (Instructor: Jadi Mirmirani)<br>- 💻 React course at Tehran Technical Complex<br>- 🎓 Former AI Developer at University of Science and Research, focusing on TensorFlow, Scikit-learn, and Keras<br>- ⚡ Fun fact: I love exploring AI solutions for web-based applications
+- 🔭 Currently working at Taskin as a Front-End Developer<br>- 🌱 Currently improving my skills with Python and Deep Learning<br>- 💼 Python course at Maktabkhooneh (Instructor: Jadi Mirmirani)<br>- 💻 React course at Tehran Technical Complex<br>- 🎓 Former AI Developer at University of Science and Research, focusing on TensorFlow, Scikit-learn, and Keras<br>- ⚡ Fun fact: I love exploring AI solutions for web-based applications
 
 
 ## 🌐 Socials:
